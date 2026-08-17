@@ -1,6 +1,6 @@
 # Kalender-App
 
-Eine mobile Kalender-App für Android, entwickelt mit Ionic, Vue.js, TypeScript und Capacitor. Die App greift auf den Standardkalender des Geräts zu und ermöglicht das Anzeigen, Suchen, Erstellen und Löschen von Terminen.
+Android-App zur Verwaltung der auf dem Gerät gespeicherten Kalendertermine. Die App wurde mit Ionic, Vue.js, TypeScript und Capacitor entwickelt und greift auf den Standardkalender des Geräts zu.
 
 ## Funktionen
 
@@ -12,6 +12,13 @@ Eine mobile Kalender-App für Android, entwickelt mit Ionic, Vue.js, TypeScript 
 - Termine nach Bestätigung löschen
 - neue Termine erstellen und Zielkalender auswählen
 - alle Ansichten sind Vue.js-Komponenten
+
+## Technologien und native Funktionen
+
+- Vue.js, Ionic und TypeScript
+- Capacitor für Android
+- nativer Kalenderzugriff
+- native Zwischenablage
 
 ## Repository-Struktur
 
@@ -60,3 +67,9 @@ npm run test:unit -- --run
 ```
 
 Die App wurde erfolgreich auf zwei Android-Geräten mit unterschiedlichen Standardkalendern getestet.
+
+## Entwickler
+
+- Maximilian Ekgardt
+- Szymon Moleda
+- Tim Seifried
